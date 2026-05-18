@@ -1,6 +1,1 @@
-11.0 加菲猫 
-GDKS
-HDJD
-HDJS
-HSJS
-HSJS
+1.0 DEXO
