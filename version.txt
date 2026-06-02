@@ -1,1 +1,5 @@
-5.1.0 DEXO
+DEXO 6.0
+HSKS
+HS
+JSK
+JD
