@@ -1,5 +1,1 @@
-DEXO 6.0
-HSKS
-HS
-JSK
-JD
+6.1 DEXO
